@@ -78,6 +78,8 @@ paperly-store/
    ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+5. ### Option 2: Live Server (recommended for development)
+If you use VS Code, install the [Live Server]( https://haidygerges.github.io/paperly-store/) extension and click **Go Live**.
 
 ### Available Scripts
 
