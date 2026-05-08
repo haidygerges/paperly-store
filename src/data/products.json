@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Linen Daily Planner 2026",
+    "price": 48,
+    "category": "Planners",
+    "image": "/assets/cart8.jpg",
+    "badge": "Bestseller",
+    "description": "A full-year undated daily planner bound in natural oatmeal linen with gold-foil edge stamping. Features 200 pages of 120gsm acid-free cream paper, a monthly overview, weekly spreads, and daily journaling pages with time-blocking grids. Lay-flat sewn binding for effortless writing. Includes a ribbon marker and elastic closure band."
+  },
+  {
+    "id": 2,
+    "name": "A5 Weekly Agenda 2026",
+    "price": 36,
+    "category": "Planners",
+    "image": "/assets/cart.jpg",
+    "badge": "New Arrival",
+    "description": "The classic A5 weekly agenda for 2026. Structured spreads with Monday-Sunday layout, notes column, habit tracker, and monthly goal pages. Soft-touch matte cover in sage green, 160 pages of fountain-pen-friendly paper. Compact enough for any bag."
+  },
+  {
+    "id": 3,
+    "name": "Elysian Script Stationery Set",
+    "price": 84,
+    "category": "Stationery",
+    "image": "/assets/cart3.jpg",
+    "badge": "Limited Edition",
+    "description": "Hand-pressed 100% cotton vellum correspondence set with delicate deckled edges. Each sheet features a subtle watermark and pairs with matching envelopes. Includes 20 A5 writing sheets and 10 C5 envelopes. Boxed in a collector's keepsake sleeve. Ideal for personal letters, invitations, and formal correspondence."
+  },
+  {
+    "id": 4,
+    "name": "Artisan Brass Fountain Pen",
+    "price": 85,
+    "category": "Pens",
+    "image": "/assets/cart4.jpg",
+    "badge": "Staff Pick",
+    "description": "A solid brass fountain pen crafted by heritage artisans using traditional lathe techniques. Features a stainless steel medium nib with smooth ink flow, accepts standard international cartridges or converter (included). Weight: 38g. Length capped: 143mm. Comes with two black cartridges in a cotton-lined gift box."
+  },
+  {
+    "id": 5,
+    "name": "Wildflower Botanical Paper Pack",
+    "price": 14,
+    "category": "Paper",
+    "image": "/assets/cart5.jpg",
+    "description": "Translucent botanical paper sheets with real pressed wildflowers embedded during the hand-papermaking process. Pack of 15 A5 sheets in assorted natural tones: meadow green, sunflower yellow, and blush. 30gsm weight, ideal for layering in cards, lampshades, or gift wrapping."
+  },
+  {
+    "id": 6,
+    "name": "Midnight Iron Gall Ink — 50ml",
+    "price": 28,
+    "category": "Inks",
+    "image": "/assets/cart6.jpg",
+    "description": "A classic iron gall formulation producing a deep blue-black that gradually darkens to permanent black on paper. Exceptional water resistance after drying and beautiful shading properties. 50ml sealed glass bottle with pipette dropper cap. Compatible with most fountain pens. pH neutral when dry."
+  },
+  {
+    "id": 7,
+    "name": "Handmade Lokta Paper Collection",
+    "price": 34,
+    "category": "Paper",
+    "image": "/assets/cart7.jpg",
+    "description": "Set of 10 premium handmade sheets produced from Himalayan Lokta shrub — a sustainable renewable resource. Each sheet is unique with natural texture variations. Ideal for printmaking, calligraphy, bookbinding, and wrapping. Available in natural cream, bark grey, and dusty rose. 75gsm weight."
+  },
+  {
+    "id": 8,
+    "name": "30cm Solid Brass Ruler",
+    "price": 28,
+    "category": "Accessories",
+    "image": "/assets/cart1.jpg",
+    "description": "Heirloom-quality 30cm ruler milled from solid brass with laser-engraved metric and imperial markings. The non-slip cork base protects paper from sliding. Weight and rigidity ensures precision cutting alongside craft knives. Develops a warm patina over time. Includes a microfibre storage sleeve."
+  },
+  {
+    "id": 9,
+    "name": "Full-Grain Leather Journal Cover",
+    "price": 62,
+    "category": "Accessories",
+    "image": "/assets/cart13.jpeg",
+    "badge": "Bestseller",
+    "description": "Vegetable-tanned full-grain leather cover cut and stitched by hand in small batches. Fits standard A5 notebooks (148mm × 210mm) with a snug sleeve pocket and refillable insert. Includes a waxed cotton pen loop, rear card pocket, and wraparound tie closure. Colours: tan, dark espresso, olive. Develops character with age."
+  },
+  {
+    "id": 10,
+    "name": "Deckle Edge Cotton Envelopes (12pk)",
+    "price": 18,
+    "category": "Stationery",
+    "image": "/assets/cart10.jpg",
+    "description": "Pack of 12 C6 envelopes made from 100% unbleached cotton pulp. The deckled edges give each envelope an artisanal handmade character. Self-adhesive moisture seal with peel-and-stick tab. Warm cream finish complements our Elysian Script stationery range. Archival quality — acid and lignin free."
+  },
+  {
+    "id": 11,
+    "name": "Zebra Mildliner Double-Sided Set (15 Colours)",
+    "price": 22,
+    "category": "Pens",
+    "image": "/assets/cart11.jpg",
+    "description": "The Zebra Mildliner set beloved by planner enthusiasts worldwide. Each pen features a broad chisel tip for highlighting and a fine bullet tip for underlining or small details. 15 signature muted tones spanning warm, cool, and fluorescent palettes. Ink is water-based, fast-drying, and won't bleed through 80gsm paper. Perfect for bullet journaling and study notes."
+  },
+  {
+    "id": 12,
+    "name": "Sakura Pigma Micron Archival Ink Set",
+    "price": 19,
+    "category": "Pens",
+    "image": "/assets/cart12.png",
+    "badge": "New Arrival",
+    "description": "The professional standard for archival line work. Set of 6 Sakura Pigma Micron pens in sizes 005, 01, 02, 03, 05, and 08. Carbon-based waterproof, fade-resistant ink that is safe for use over watercolour washes. Ideal for illustration, journaling, maps, and hand lettering. Acid-free and photo-safe."
+  }
+]
